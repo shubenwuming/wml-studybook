@@ -1,8 +1,7 @@
-# 此项目仅记录学习计划
+# 此项目相当于一个目录
 
 ## 手写丐版vue-router
 
-[代码地址](https://github.com/shubenwuming/wml-vue-router)
+git地址：[代码地址](https://github.com/shubenwuming/wml-vue-router)
 掘金：
-[百度](http://baidu.com)
 
