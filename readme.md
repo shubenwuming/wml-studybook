@@ -3,6 +3,6 @@
 ## 手写丐版vue-router
 
 ```
-代码： git@github.com:shubenwuming/wml-front-study.git
+代码： https://github.com/shubenwuming/wml-vue-router
 掘金：
 ```
