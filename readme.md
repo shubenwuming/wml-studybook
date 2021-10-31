@@ -2,7 +2,7 @@
 
 ## 手写丐版vue-router
 
-git地址：[代码地址](https://github.com/shubenwuming/wml-vue-router)
+git地址：[https://github.com/shubenwuming/wml-vue-router](https://github.com/shubenwuming/wml-vue-router)
 
-掘金：
+掘金：[https://juejin.cn/post/7024363970769190926](https://juejin.cn/post/7024363970769190926)
 
