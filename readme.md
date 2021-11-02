@@ -9,5 +9,9 @@ git地址：[https://github.com/shubenwuming/wml-vue-router](https://github.com/
 git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/stack](https://github.com/shubenwuming/data-structures-and-algorithms/tree/stack)    
 掘金地址：[https://juejin.cn/post/7024636381909483556](https://juejin.cn/post/7024636381909483556)
 
+### 排序算法-冒泡
+git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/bubble-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/bubble-sort)
+掘金地址：[https://juejin.cn/post/7025937545707913230/](https://juejin.cn/post/7025937545707913230/)
+
 
 
