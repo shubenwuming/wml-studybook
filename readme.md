@@ -11,7 +11,8 @@ git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree
 
 ### 排序算法-冒泡
 git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/bubble-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/bubble-sort)  
-掘金地址：[https://juejin.cn/post/7025937545707913230/](https://juejin.cn/post/7025937545707913230/)
+掘金地址：[https://juejin.cn/post/7025937545707913230/](https://juejin.cn/post/7025937545707913230/)  
+b站视频：[https://www.bilibili.com/video/BV11u411o7F1?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV11u411o7F1?spm_id_from=333.999.0.0)
 
 
 
