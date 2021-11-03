@@ -16,7 +16,11 @@ b站视频：[https://www.bilibili.com/video/BV11u411o7F1?spm_id_from=333.999.0.
 
 ### 2.3 排序算法-选择
 git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/select-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/select-sort)  
-掘金地址：[https://juejin.cn/post/7026266361122783240](https://juejin.cn/post/7026266361122783240)
+掘金地址：[https://juejin.cn/post/7026266361122783240](https://juejin.cn/post/7026266361122783240)  
+
+### 2.4 排序算法-插入
+掘金地址：  
+git地址：https://github.com/shubenwuming/data-structures-and-algorithms/tree/insert-sort  
 
 
 
