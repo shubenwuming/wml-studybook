@@ -49,6 +49,9 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 #### 2.8.4 反转链表（题号：206）
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushinghttps://github.com/shubenwuming/leetcode-brushing)        
 掘金地址：[https://juejin.cn/post/7029582199611621413](https://juejin.cn/post/7029582199611621413)  
+#### 2.8.5 反转链表II(部分反转)(题号：92)
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushinghttps://github.com/shubenwuming/leetcode-brushing)        
+掘金地址：[https://juejin.cn/post/7033065044858535949](https://juejin.cn/post/7033065044858535949)
 
 
 
