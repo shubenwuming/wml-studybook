@@ -60,7 +60,10 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 掘金地址：[https://juejin.cn/post/7034118041092915214](https://juejin.cn/post/7034118041092915214)  
 #### 2.8.8 有效的括号（题号：20）
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
-掘金地址：[https://juejin.cn/post/7035427757978812447](https://juejin.cn/post/7035427757978812447)
+掘金地址：[https://juejin.cn/post/7035427757978812447](https://juejin.cn/post/7035427757978812447)  
+#### 2.8.9  回文数（题号：9）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7035502721411055623](https://juejin.cn/post/7035502721411055623)
 
 
 
