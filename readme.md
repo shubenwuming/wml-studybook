@@ -88,7 +88,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)    
 掘金地址：[https://juejin.cn/post/7037840595598966791](https://juejin.cn/post/7037840595598966791)  
 
-### 2.8.17 分隔链表(题号：86)
+#### 2.8.17 分隔链表(题号：86)
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)    
 掘金地址：[https://juejin.cn/post/7038472743028801550](https://juejin.cn/post/7038472743028801550)  
 
