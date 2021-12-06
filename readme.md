@@ -92,6 +92,10 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)    
 掘金地址：[https://juejin.cn/post/7038472743028801550](https://juejin.cn/post/7038472743028801550)  
 
+#### 2.8.18 复制带随机指针的链表(题号：138)
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7038574569950543903](https://juejin.cn/post/7038574569950543903)
+
 
 
 
