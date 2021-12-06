@@ -80,13 +80,17 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7037486151912914951](https://juejin.cn/post/7037486151912914951)
 
-### 2.8.15 删除排序链表中的重复元素（题号：83）
+#### 2.8.15 删除排序链表中的重复元素（题号：83）
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7037730787172548621](https://juejin.cn/post/7037730787172548621)
 
-### 2.8.16 删除排序链表中的重复元素II（题号：82）
-git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
-掘金地址：[https://juejin.cn/post/7037840595598966791](https://juejin.cn/post/7037840595598966791)
+#### 2.8.16 删除排序链表中的重复元素II（题号：82）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)    
+掘金地址：[https://juejin.cn/post/7037840595598966791](https://juejin.cn/post/7037840595598966791)  
+
+### 2.8.17 分隔链表(题号：86)
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)    
+掘金地址：[https://juejin.cn/post/7038472743028801550](https://juejin.cn/post/7038472743028801550)  
 
 
 
