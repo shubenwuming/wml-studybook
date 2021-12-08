@@ -96,6 +96,10 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7038574569950543903](https://juejin.cn/post/7038574569950543903)
 
+#### 2.8.19 设计循环队列(题号：622)
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7039250967900094472](https://juejin.cn/post/7039250967900094472)
+
 
 
 
