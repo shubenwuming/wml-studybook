@@ -102,7 +102,11 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 
 #### 2.8.20 数据流中第K大元素（题号：703）
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)    
-掘金地址：[https://juejin.cn/post/7039709851882094606](https://juejin.cn/post/7039709851882094606)
+掘金地址：[https://juejin.cn/post/7039709851882094606](https://juejin.cn/post/7039709851882094606)  
+
+#### 2.8.21 设计循环双端队列(题号：641)
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7039975752887975972](https://juejin.cn/post/7039975752887975972)
 
 
 
