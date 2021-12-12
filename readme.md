@@ -128,11 +128,11 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7040696277285224485](https://juejin.cn/post/7040696277285224485)
 
-####  煎饼排序（题号：969）
+#### 2.8.27 煎饼排序（题号：969）
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7040780361097281543](https://juejin.cn/post/7040780361097281543)
 
-#### 2.8.27 任务调度器(题号: 621)
+#### 2.8.28 任务调度器(题号: 621)
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7040828414281908238](https://juejin.cn/post/7040828414281908238)
 
