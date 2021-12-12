@@ -120,6 +120,10 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7040635195074183182](https://juejin.cn/post/7040635195074183182)
 
+#### 2.8.25 亲密字符串（题号：859）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7040674450563399694](https://juejin.cn/post/7040674450563399694)
+
 
 
 
