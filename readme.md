@@ -136,6 +136,22 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7040828414281908238](https://juejin.cn/post/7040828414281908238)
 
+#### 2.8.29 化栈为队(题号：面试题03.04.)
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7041775408701767694](https://juejin.cn/post/7041775408701767694)
+
+#### 2.8.30 棒球比赛（题号：682）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7041783355913797662](https://juejin.cn/post/7041783355913797662)
+
+#### 2.8.31 比较含退格的字符串（题号：844）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7041795308631621663](https://juejin.cn/post/7041795308631621663)
+
+#### 2.8.32 验证栈序列（题号：946）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7041843330237333535](https://juejin.cn/post/7041843330237333535)
+
 
 
 
