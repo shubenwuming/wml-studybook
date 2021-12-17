@@ -54,7 +54,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 掘金地址：[https://juejin.cn/post/7033065044858535949](https://juejin.cn/post/7033065044858535949)
 #### 2.8.6 二叉树前序遍历 (题号：144)
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
-掘金地址：[https://juejin.cn/post/7034046812533030942](https://juejin.cn/post/7034046812533030942)
+掘金地址：[https://juejin.cn/post/7034046812533030942](https://juejin.cn/post/7034046812533030942)、[https://juejin.cn/post/7042560119111942180](https://juejin.cn/post/7042560119111942180)
 #### 2.8.7 合并两个有序链表 (题号：21)
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7034118041092915214](https://juejin.cn/post/7034118041092915214)  
