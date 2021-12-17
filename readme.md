@@ -152,6 +152,22 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7041843330237333535](https://juejin.cn/post/7041843330237333535)
 
+#### 2.8.33 删除最外层括号（题号：1021）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7042157689505316901](https://juejin.cn/post/7042157689505316901)
+
+#### 2.8.34 删除无效的括号（题号：1249）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7042175736265834509](https://juejin.cn/post/7042175736265834509)
+
+#### 2.8.35 二叉树中序遍历（题号：94）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7042560119111942180](https://juejin.cn/post/7042560119111942180)
+
+#### 2.8.36 二叉树后序遍历（题号：145）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7042560119111942180](https://juejin.cn/post/7042560119111942180)
+
 
 
 
