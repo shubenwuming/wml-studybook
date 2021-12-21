@@ -168,6 +168,10 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7042560119111942180](https://juejin.cn/post/7042560119111942180)
 
+#### 2.8.37 验证二叉树的前序序列化（题号：331）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7044019991603052574](https://juejin.cn/post/7044019991603052574)
+
 
 
 
