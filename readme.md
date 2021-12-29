@@ -172,6 +172,18 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7044019991603052574](https://juejin.cn/post/7044019991603052574)
 
+#### 2.8.38 基本计算器Ⅱ（题号：227）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7046354106180435975](https://juejin.cn/post/7046354106180435975)
+
+#### 2.8.39 函数的独占时间 （题号：636）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7046647308716343332](https://juejin.cn/post/7046647308716343332)
+
+#### 2.8.40 表现良好的最长时间段（题号：1224）
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7047083537148690439](https://juejin.cn/post/7047083537148690439)
+
 
 
 
